@@ -1,6 +1,6 @@
-### Hi there,I’m Khyber Lahori👋
+### Hi there,I’m [Khyber][website] 👋
 
-## Im a recent gradeuate from the University of Ottawa in Computer Engineering
+## Im a recent graduate from the University of Ottawa in Computer Engineering
 
 -🔭 I’m currently working on a Ecommerce website
 -🌱 I’m currently learning Django
@@ -16,7 +16,6 @@
 <img align="left" alt="Klahori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=klahori&show_icons=true&hide_border=true" />
 
 <img align="left" alt="Klahori's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klahori&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klahori)](https://github.com/klahori/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/khyberlahori
 [website]: https://klahori.github.io

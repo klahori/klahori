@@ -14,9 +14,9 @@
 
 ## <br />
 
-<img align="left" alt="Klahori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=klahori&show_icons=true&hide_border=true" />
+<img align="left" alt="Klahori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=klahori&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img align="left" alt="Klahori's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klahori&show_icons=true&hide_border=true" />
+<img align="left" alt="Klahori's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klahori&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
 [linkedin]: https://linkedin.com/in/khyberlahori
 [website]: https://klahori.github.io

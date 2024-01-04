@@ -1,9 +1,7 @@
 ### Hi there,I’m [Khyber][website] 👋
 
-## I'm a recent graduate from the University of Ottawa in Computer Engineering
+## I'm a  graduate from the University of Ottawa in Computer Engineering
 
-- 🔭 I’m currently working on a Ecommerce website
-- 🌱 I’m currently learning Django
 - 💬 Ask me about my recent projects
 - 📫 How to reach me: khyber987@gmail.com
 
